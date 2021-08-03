@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Outreach
-subtitle: Reaching out
+title: Outreach!
+subtitle: My Outreach Work
 ---
 
 Some stuff about my outreach work........
