@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome!
-subtitle: I'm Casey Taylor
+subtitle:
 ---
 
 I'm a PhD candidate in the final stages of my thesis write-up at the University of Sydney. I am apart of the Behavioural Ecology and Conservation Research Group and the Integrative Ecology lab. 
