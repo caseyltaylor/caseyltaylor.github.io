@@ -12,8 +12,10 @@ My research focuses on understanding the ecological drivers of human-tick encoun
 My PhD research has combines my interests in wildlife, parasites, ecology and human-wildlife conflict using a range of techniques from small mammal trapping, camera trapping, and wildlife anaesthesia to study tick-host relationships, to the use of online surveys to map human-tick encounters and relate these to backyard traits, wildlife observations and broader landscape traits.
 
 
-![]({{ site.url }}/images/Me-holding-possum.JPG)
+![]({{ site.url }}/images/Me_possum.JPG)
+
 ![]({{ site.url }}/images/CT_cam trapping.png)
+
 ![]({{ site.url }}/images/Checking Cotton flag for ticks.jpg)
 
 Before commencing my PhD research, I completed a Bachelor of Animal and Veterinary Bioscience with First Class Honours at The University of Sydney. During my undergradate degree, I developed a strong interest in wildlife, parasites and disease which led me to major in Animal Health and Disease. I went on to do an Honours project exploring the use of Infrared thermography as a tool to measure inflammation and pain in beef calves undergoing routine husbandry procedures. While my love for research began during my Honours year, it was a 6-month gap post-Honours that led me back to ecology.
