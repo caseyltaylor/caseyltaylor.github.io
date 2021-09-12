@@ -16,5 +16,5 @@ Before commencing my PhD research, I completed a Bachelor of Animal and Veterina
 
 In my time between Honours and my PhD, I completed a 6-month program with Conservation Volunteers Australia focused on restoring of a degraded section of the Nepean River. Through this program I reconnected with my love for nature and went on the hunt for a PhD involving wildlife and ecology.
 
-<img src="/images/Me_NT-01.png" width="350" height="400" align ="center"> <img src="/images/COVID-holding-bandicoot.JPG" width="350" height="400" align ="center">
+ <img src="/images/COVID-holding-bandicoot.JPG" width="400" height="200" align ="center">
 
