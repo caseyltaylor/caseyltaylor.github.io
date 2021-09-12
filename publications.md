@@ -3,15 +3,9 @@ layout: page
 title: Publications & Grants
 ---
 
-Another publication. (2022). _Some journal_ **bold**.
-
-Person et al. (2021) Make-believe paper. _A journal_ 1:100-105.
-
 White TE, Latty T (2020) Flies improve the salience of iridescent sexual signals by orienting toward the sun. [_Behavioural Ecology_](https://doi.org/10.1093/beheco/araa098) 31, 1401-1409.  
 | [pdf]({{ site.url }}/documents/white_latty_2020_flies_improve_the_salience_of_iridescent_sexual_signals_by_orienting_toward_the_sun.pdf) |
 
-
-Things et al. (2020) A new paper. _Great journal_
 
 **Manuscripts submitted or in prep**
 
@@ -35,6 +29,7 @@ Van der Saag, D., Lomax, S., Windsor, P. A., Taylor, C., Thomson, P., Hall, E., 
 Van der Saag, D., Lomax, S., Windsor, P. A., Taylor, C., & White, P. J. (2018). Evaluating treatments with topical anaesthetic and buccal meloxicam for pain and inflammation caused by amputation dehorning of calves. [_PloS one_] (https://doi.org/10.1371/journal.pone.0198808), 13 (6), e0198808. | [pdf]({{ site.url }}/documents/Hons_plosONE.pdf) |
 
 **Grants & Awards**
+
 Hermon Slade Foundation
 _Understanding the ecology of tick host interactions: black rats as drivers of urban tick dynamics_ ($84,000) (2021) 
 
@@ -46,6 +41,4 @@ The Ecological Society of Australia. Student Travel Grant ($250) (2019)
 
 Royal Zoological Society of NSW Paddy Pallin Science Grant ($7000) (2018)
 
-
-![image](https://user-images.githubusercontent.com/88410592/132972094-ea0b1efa-67d4-4633-a0de-c8287bb4fbee.png)
 
