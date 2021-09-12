@@ -20,9 +20,9 @@ Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstr
 
 **Publications**
 
-Taylor, C. L., Lydecker, H. W., Lo, N., Hochuli, D. F., & Banks, P. B. (2020). Invasive rabbits host immature Ixodes ticks at the urban-forest interface. Ticks and Tick-borne Diseases, 11 (4), 101439. | [pdf]({{ site.url }}/documents/Taylor et al 2020 Ticks Tickborne Dis.pdf) |
+Taylor, C. L., Lydecker, H. W., Lo, N., Hochuli, D. F., & Banks, P. B. (2020). Invasive rabbits host immature Ixodes ticks at the urban-forest interface. [_Ticks and Tick-borne Diseases_] (https://doi.org/10.1016/j.ttbdis.2020.101439), 11 (4), 101439. | [pdf]({{ site.url }}/documents/Taylor et al 2020 Ticks Tickborne Dis.pdf) |
 
-Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. (2020). Molecular identification of the Trypanosoma (Herpetosoma) lewisi clade in black rats (Rattus rattus) from Australia. _Parasitology Research_, 119 (5) 1691-1696. | [pdf]({{ site.url }}/documents/Egan et al 2020 Parasitol Res.pdf) |
+Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. (2020). Molecular identification of the Trypanosoma (Herpetosoma) lewisi clade in black rats (Rattus rattus) from Australia. [_Parasitology Research_] (https://doi-org.ezproxy.library.sydney.edu.au/10.1007/s00436-020-06653-z), 119 (5) 1691-1696. | [pdf]({{ site.url }}/documents/Egan et al 2020 Parasitol Res.pdf) |
 
 Van der Saag, D., Lomax, S., Windsor, P. A., Taylor, C., Thomson, P., Hall, E., & White, P. J. (2018). Effects of topical anaesthetic and buccal meloxicam on average daily gain, behaviour and inflammation of unweaned beef calves following surgical castration. [_Animal: an International Journal of Animal Bioscience_] (https://doi.org/10.1017/S1751731118000216) , 12 (11), 2373-2381. | [pdf]({{ site.url }}/documents/Hons_Animal.pdf) |
 
