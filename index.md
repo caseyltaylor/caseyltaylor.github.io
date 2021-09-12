@@ -6,7 +6,9 @@ subtitle:
 
 I'm a PhD candidate in the final stages of my thesis write-up at the University of Sydney. I am apart of the Behavioural Ecology and Conservation Research Group and the Integrative Ecology lab. 
 
-![]({{ site.url }}/images/Me_NT-01.png)
+
+<img src="![]({{ site.url }}/images/Me_NT-01.png" width="100" height="100">
+
 My research focuses on understanding the ecological drivers of human-tick encounters with a focus on the relationship between small mammals and ticks in urban areas. Native bandicoots are widely considered the primary hosts of ticks that cause problems for people and pets, so my research set out to identify the key ticks hosts to better inform tick management.
 My PhD research has combines my interests in wildlife, parasites, ecology and human-wildlife conflict using a range of techniques from small mammal trapping, camera trapping, and wildlife anaesthesia to study tick-host relationships, to the use of online surveys to map human-tick encounters and relate these to backyard traits, wildlife observations and broader landscape traits.
 
