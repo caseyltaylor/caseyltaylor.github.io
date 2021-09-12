@@ -12,14 +12,14 @@ I've worked as a demonstrator in practical classes for Life and Evolution - a fi
 _Tropical Wildlife Biology_, Demonstrator, The University of Sydney (2019 & 2020)
 I worked as a demonstrator on a 1-week intensive field course located at Mary River Park in the Northern Territory, Australia. In this course, we showed students how to conduct wildlife surveys, how to identify wild animals - with an emphasis on amphibians and reptiles - and we mentored the students through the design and completion of a field experiment.
 
-Ecology, Demonstrator. The University of Sydney (2021)   
+_Ecology_, Demonstrator. The University of Sydney (2021)   
 Assisting 3rd year ecology student with their projects.
 
-Ecology & Conservation, Demonstrator, The University of Sydney. (2021)                                                
+_Ecology & Conservation_, Demonstrator, The University of Sydney. (2021)                                                
 
 **Mentorship**
 
-Co-supervisor, The University of Sydney. (2018)
+_Co-supervisor_, The University of Sydney. (2018)
 
 I co-supervised an Animal and Veterinary Bioscience Honours student researching the effect of time since prescribed burning on small mammal and tick activity in urban bushland. I assisted with fieldwork activities (small mammal trapping and microhabitat surveys) and coordinated volunteers and the wildlife anaesthesia training required for the project. I mentored the student during the project design phase and provided feedback on their final manuscript and presentation.
 
