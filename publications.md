@@ -39,6 +39,6 @@ The University of Sydney Postgraduate Research Support Scheme ($3100) (2020)
 
 The Ecological Society of Australia. Student Travel Grant ($250) (2019)   
 
-Royal Zoological Society of NSW Paddy Pallin Science Grant ($7000) (2018)
+Royal Zoological Society of NSW [_Paddy Pallin Science Grant_] (https://www.rzsnsw.org.au/documents/item/71) ($7000) (2018)
 
 
