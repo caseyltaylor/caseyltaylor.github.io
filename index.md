@@ -14,9 +14,9 @@ My PhD research has combines my interests in wildlife, parasites, ecology and hu
 
 Before commencing my PhD research, I completed a Bachelor of Animal and Veterinary Bioscience with First Class Honours at The University of Sydney. During my undergradate degree, I developed a strong interest in wildlife, parasites and disease which led me to major in Animal Health and Disease. I went on to do an Honours project exploring the use of Infrared thermography as a tool to measure inflammation and pain in beef calves undergoing routine husbandry procedures. While my love for research began during my Honours year, it was a 6-month gap post-Honours that led me back to ecology.
 
- <img src="/images/COVID-holding-bandicoot.JPG" width="300" height="200" align="center">
+ <img src="/images/COVID-holding-bandicoot.JPG" width="300" height="200" align="middle">
 
 In my time between Honours and my PhD, I completed a 6-month program with Conservation Volunteers Australia focused on restoring of a degraded section of the Nepean River. Through this program I reconnected with my love for nature and went on the hunt for a PhD involving wildlife and ecology.
 
- <img src="/images/Me_NT-01.png" width="350" height="400" align="center">
+ <img src="/images/Me_NT-01.png" width="350" height="400" align="middle">
 
