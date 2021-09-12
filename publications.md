@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Publications & Grants
 ---
 
 Another publication. (2022). _Some journal_ **bold**.
@@ -30,7 +30,7 @@ Taylor, C. L., Lydecker, H. W., Lo, N., Hochuli, D. F., & Banks, P. B. (2020). I
 
 Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. (2020). Molecular identification of the Trypanosoma (Herpetosoma) lewisi clade in black rats (Rattus rattus) from Australia. _Parasitology Research_, 119 (5) 1691-1696. | [pdf]({{ site.url }}/documents/white_latty_2020_flies_improve_the_salience_of_iridescent_sexual_signals_by_orienting_toward_the_sun.pdf) |
 
-Van der Saag, D., Lomax, S., Windsor, P. A., Taylor, C., Thomson, P., Hall, E., & White, P. J. (2018). Effects of topical anaesthetic and buccal meloxicam on average daily gain, behaviour and inflammation of unweaned beef calves following surgical castration. _Animal: an International Journal of Animal Bioscience_, 12 (11), 2373-2381. | [pdf]({{ site.url }}/documents/white_latty_2020_flies_improve_the_salience_of_iridescent_sexual_signals_by_orienting_toward_the_sun.pdf) |
+Van der Saag, D., Lomax, S., Windsor, P. A., Taylor, C., Thomson, P., Hall, E., & White, P. J. (2018). Effects of topical anaesthetic and buccal meloxicam on average daily gain, behaviour and inflammation of unweaned beef calves following surgical castration. [_Animal: an International Journal of Animal Bioscience_] (https://doi.org/10.1017/S1751731118000216) , 12 (11), 2373-2381. | [pdf]({{ site.url }}/documents/white_latty_2020_flies_improve_the_salience_of_iridescent_sexual_signals_by_orienting_toward_the_sun.pdf) |
 
 Van der Saag, D., Lomax, S., Windsor, P. A., Taylor, C., & White, P. J. (2018). Evaluating treatments with topical anaesthetic and buccal meloxicam for pain and inflammation caused by amputation dehorning of calves. _PloS one_, 13 (6), e0198808. | [pdf]({{ site.url }}/documents/white_latty_2020_flies_improve_the_salience_of_iridescent_sexual_signals_by_orienting_toward_the_sun.pdf) |
 
