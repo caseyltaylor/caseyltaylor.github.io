@@ -14,7 +14,8 @@ author: Casey Taylor
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Publications & grants: "publications"
+  Current Research: "research"
+  Publications|Grants|Presentations: "publications"
   Outreach: "outreach"
   Teaching: "teaching"
 
