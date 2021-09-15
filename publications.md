@@ -5,13 +5,13 @@ title: Publications & Grants
 
 **Manuscripts submitted or in prep**
 
-Taylor, C. L., Hochuli, D. F., & Banks, P. B. A native marsupial and invasive commensal support tick populations at the urban fringe. (2021) In prep.
+Taylor, C. L., Hochuli, D. F., & Banks, P. B. A native marsupial and invasive commensal support tick populations at the urban fringe. (2021) **In prep**.
 
-Taylor, C. L., Lydecker, H. W.., Hochuli, D. F., & Banks, P. B. Associations between reported wildlife observations, tick encounters and landscape features in a peri-urban tick hotspot of Australia. (2021) submitted.
+Taylor, C. L., Lydecker, H. W.., Hochuli, D. F., & Banks, P. B. Associations between reported wildlife observations, tick encounters and landscape features in a peri-urban tick hotspot of Australia. (2021) **Submitted**.
 
-Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. Haemoprotozoa surveillance in peri-urban native and introduced wildlife. (2021). In review in Current research in Parasitology & Vector-borne Diseases.
+Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. Haemoprotozoa surveillance in peri-urban native and introduced wildlife. (2021). **In review** in Current research in Parasitology & Vector-borne Diseases.
 
-Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. The bacterial biome of ticks and their wildlife hosts at the urban-wildland interface. (2021). In review in Microbial Genomics.
+Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. The bacterial biome of ticks and their wildlife hosts at the urban-wildland interface. (2021). **In review** in Microbial Genomics.
 
 
 **Publications**
