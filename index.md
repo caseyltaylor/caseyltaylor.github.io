@@ -4,7 +4,7 @@ title: Casey Taylor
 subtitle:
 ---
 
-I'm a PhD candidate in the final stages of my thesis write-up at the University of Sydney. I am apart of the Behavioural Ecology and Conservation Research Group and the Integrative Ecology lab. 
+I'm a PhD candidate in the final stages of my thesis write-up at the University of Sydney. I am apart of the [Behavioural Ecology and Conservation Research Group](https://conservation-behaviour.sydney.edu.au/) and the [Integrative Ecology lab](https://www.sydney.edu.au/science/our-research/research-areas/life-and-environmental-sciences/integrative-ecology-lab.html). 
 
 My research focuses on understanding the ecological drivers of human-tick encounters with a focus on the relationship between small mammals and ticks in urban areas. Native bandicoots are widely considered the primary hosts of ticks that cause problems for people and pets, so my research set out to identify the key ticks hosts to better inform tick management.
 My PhD research has combines my interests in wildlife, parasites, ecology and human-wildlife conflict using a range of techniques from small mammal trapping, camera trapping, and wildlife anaesthesia to study tick-host relationships, to the use of online surveys to map human-tick encounters and relate these to backyard traits, wildlife observations and broader landscape traits.
