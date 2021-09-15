@@ -3,10 +3,6 @@ layout: page
 title: Publications & Grants
 ---
 
-White TE, Latty T (2020) Flies improve the salience of iridescent sexual signals by orienting toward the sun. [_Behavioural Ecology_](https://doi.org/10.1093/beheco/araa098) 31, 1401-1409.  
-| [pdf]({{ site.url }}/documents/white_latty_2020_flies_improve_the_salience_of_iridescent_sexual_signals_by_orienting_toward_the_sun.pdf) |
-
-
 **Manuscripts submitted or in prep**
 
 Taylor, C. L., Hochuli, D. F., & Banks, P. B. A native marsupial and invasive commensal support tick populations at the urban fringe. (2021) In prep.
