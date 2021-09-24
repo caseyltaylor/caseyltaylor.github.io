@@ -51,4 +51,8 @@ The Australian Mammal Society: Understanding the drivers of small mammal ad tick
 
 Ecological Society of Australia: Introduced rabbits are hosts of immature Ixodes ticks in urban areas (2018)
 
-HDR postgraduate research showcase, introductory seminar: The ecological drivers of human-tick encounters in urban environments (2018)
+Postgraduate research showcase seminar: The ecological drivers of human-tick encounters in urban environments (2018)
+
+<img src="/images/Coverslide_rabbits.png" width="400" height="225" align="center">
+
+<img src="/images/Coverslide_ams.png" width="400" height="225" align="center">
