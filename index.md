@@ -20,3 +20,4 @@ In my time between Honours and my PhD, I completed a 6-month program with Conser
 
  <img src="/images/Me_NT-01.png" width="350" height="400" align="middle">
 
+<a class="twitter-timeline" href="https://twitter.com/caseyttaylor?ref_src=twsrc%5Etfw">Tweets by caseyttaylor</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
