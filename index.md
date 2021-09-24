@@ -16,6 +16,7 @@ Before my PhD, I completed a **Bachelor of Animal and Veterinary Bioscience** wi
 
  <img src="/images/COVID-holding-bandicoot.JPG" width="300" height="200" align="middle">
  
-**You can follow me on Twitter @caseyttaylor **
+**You can follow me on Twitter [@caseyttaylor](https://twitter.com/caseyttaylor)**
+_More links at bottom of page_
 
 <a class="twitter-timeline" href="https://twitter.com/caseyttaylor?ref_src=twsrc%5Etfw">Tweets by caseyttaylor</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
