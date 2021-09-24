@@ -16,8 +16,11 @@ The Australian paralysis tick (_Ixodes holocyclus_), is a generalist that can fe
 _Left: cluster of engorged nymphal ticks on an anaesthetised black rat, right: a larval Ixodes tick under the microscope (~0.8mm)_
 
 Our project tests three key hypotheses:
+
 1) That black rats amplify local tick populations (or alternatively act as ecological traps through grooming) 
+
 2) That black rats move regularly between bushland and backyards
+ 
 3) That a local rat removal program will lead to a reduction in tick abundance
 
 Solutions to prevent tick-borne public health risks are embedded in our understanding of tick ecology. By testing these hypotheses, we will definitively reveal the importance of a global commensal in maintaining urban tick populations, inform management of black rats in urban bushland by studying their movement and determine whether large-scale rat control is a viable tick management strategy. 
