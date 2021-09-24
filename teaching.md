@@ -14,9 +14,7 @@ _Tropical Wildlife Biology_, Demonstrator, The University of Sydney (2019 & 2020
 I worked as a demonstrator on a 1-week intensive field course located at Mary River Park in the Northern Territory, Australia. In this course, we showed students how to conduct wildlife surveys, how to identify wild animals - with an emphasis on amphibians and reptiles - and we mentored the students through the design and completion of a field experiment.
 
 _Ecology_, Demonstrator. The University of Sydney (2021)   
-Assisting 3rd year ecology student with their projects.
-
-_Ecology & Conservation_, Demonstrator, The University of Sydney. (2021)                                                
+Assisting 3rd year ecology student with their projects.                                               
 
 **Mentorship**
 
