@@ -9,7 +9,15 @@ Wihth fnding from the [Hermon Slade Foundation](http://www.hermonslade.org.au/) 
 
 The Australian paralysis tick (_Ixodes holocyclus_), is a generalist and can feed on many species. But our recent work shows that introduced black rats (_Rattus rattus_) are abundant in urban tick hot spots, host high numbers of juvenile Australian ticks, and may play a key role in driving urban tick dynamics.
 
+<img src="/images/Black _rat_henry_credit.JPG" width="400" height="280" align="center"> 
+
+Image credit: _Henry Lydecker_
+
 In this project, we will study the role of black rats in urban tick dynamics to understand how an abundant invasive species shapes parasite ecology. Black rats are common in peri-urban bushland and backyards where residents regularly encounter ticks. However, we lack the knowledge required to make evidence-informed decisions around managing ticks.
+
+<img src="/images/BR_ticks.png" width="500" height="200" align="center"> 
+
+_Left: cluster of engorged nymphal ticks on an anaesthetised black rat, right: a larval Ixodes tick under the microscope (~0.8mm)_
 
 Our project tests three key hypotheses:
 1) That black rats amplify local tick populations (or alternatively act as ecological traps through grooming) 
