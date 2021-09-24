@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications|Grants|Presentations
+title: Publications & grants
 ---
 
 **Manuscripts submitted or in prep**
