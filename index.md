@@ -13,7 +13,7 @@ I've used a range of techniques to answer my research questions including small 
 
  <img src="/images/COVID-holding-bandicoot.JPG" width="300" height="200" align="middle">
  
-Before my PhD, I completed a **Bachelor of Animal and Veterinary Bioscience** with First Class Honours at The University of Sydney. During my undergradate degree, I developed a strong interest in wildlife, parasites and disease which led me to major in Animal Health and Disease. My Honours project explored the use of Infrared thermography as a tool to measure inflammation and pain in beef calves undergoing routine husbandry procedures. This project sparked my passion for research, but it was a 6-month program with **Conservation Volunteers Australia** after Honours that led me back to ecology.
+Before my PhD, I completed a **Bachelor of Animal and Veterinary Bioscience** with First Class Honours at The University of Sydney. I developed a strong interest in wildlife, parasites and disease which led me to major in Animal Health and Disease. My Honours project explored the use of Infrared thermography as a tool to measure inflammation and pain in beef calves undergoing routine husbandry procedures. While Honours sparked my passion for research, it was a 6-month program with **Conservation Volunteers Australia** after Honours that led me back to ecology.
 
  <img src="/images/CT_termite mound_trop BIO.JPG" width="250" height="300" align="center">
  
