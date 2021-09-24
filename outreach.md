@@ -18,6 +18,8 @@ As part of my PhD research, I released an online survey for Northern Beaches res
 
 **Videos for general scientific communication**
 
+I've created some videos to showcase some of the fieldwork and data collection in my research.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_VlgFX4BdKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There are some beautiful bushland remnants on Australia’s east coast. In this video, we’re setting up camera traps with a peanut oil lure to estimate tick host activity in remnants and adjacent yards.<a href="https://twitter.com/sydneyrats?ref_src=twsrc%5Etfw">@sydneyrats</a> <a href="https://twitter.com/dieterhochuli?ref_src=twsrc%5Etfw">@dieterhochuli</a> <a href="https://t.co/bBpv4UVOg6">pic.twitter.com/bBpv4UVOg6</a></p>&mdash; Casey Taylor (@caseyttaylor) <a href="https://twitter.com/caseyttaylor/status/1230722334295654403?ref_src=twsrc%5Etfw">February 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
