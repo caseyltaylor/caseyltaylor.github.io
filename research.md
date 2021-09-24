@@ -18,7 +18,7 @@ The Australian paralysis tick (_Ixodes holocyclus_), is a generalist that can fe
 
 _Left: cluster of engorged nymphal ticks on an anaesthetised black rat, right: a larval Ixodes tick under the microscope (~0.8mm)_
 
-Our project tests three key hypotheses:
+**Our project tests three key hypotheses:**
 
 1) That black rats amplify local tick populations (or alternatively act as ecological traps through grooming) 
 
