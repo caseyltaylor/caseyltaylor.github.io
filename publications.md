@@ -27,14 +27,14 @@ Van der Saag, D., Lomax, S., Windsor, P. A., Taylor, C., & White, P. J. (2018). 
 **Grants & Awards**
 
 Hermon Slade Foundation
-_Understanding the ecology of tick host interactions: black rats as drivers of urban tick dynamics_ ($84,000) (2021) 
+_Understanding the ecology of tick host interactions: black rats as drivers of urban tick dynamics_ (**$84,000**) (2021) 
 
-Northern Beaches Council PhD scholarship ($75,000) (2018)   
+Northern Beaches Council PhD scholarship (**$75,000**) (2018)   
 
-The University of Sydney Postgraduate Research Support Scheme ($3100) (2020)
+The University of Sydney Postgraduate Research Support Scheme (**$3100**) (2020)
 
-The Ecological Society of Australia. Student Travel Grant ($250) (2019)   
+The Ecological Society of Australia. Student Travel Grant (**$250**) (2019)   
 
-Royal Zoological Society of NSW [_Paddy Pallin Science Grant_](https://www.rzsnsw.org.au/documents/item/71) ($7000) (2018)
+Royal Zoological Society of NSW [_Paddy Pallin Science Grant_](https://www.rzsnsw.org.au/documents/item/71) (**$7000**) (2018)
 
 [Best Graphical Abstract]({{ site.url }}/documents/Graphical abstract_survey paper.pdf), Higher Degree Research Showcase (2020)
