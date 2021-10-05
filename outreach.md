@@ -9,7 +9,7 @@ I've recently talked about my PhD research on an episode of ABC's [_Off Track_](
 
 [<img src="/images/Off track screenshot.png" width="500" height="365" align="center">](https://www.abc.net.au/radionational/programs/offtrack/bandicoots-and-ticks/13513134) 
 
-The episode was also featured in the Greater Sydney Local Land Services October 2021 [Newsletter](https://araneoides.eomail1.com/web-version?ep=1&lc=0ad0c50a-e4aa-11e9-be00-06b4694bee2a&p=d87c1e17-20c4-11ec-96e5-06b4694bee2a&pt=campaign&t=1633391352&s=4dba79283b46827b7840a0207a265519320b65291bb6949c20cc340b0ee72245) 
+The episode was also featured in the Greater Sydney Local Land Services October 2021 [Landcare and Community Newsletter](https://araneoides.eomail1.com/web-version?ep=1&lc=0ad0c50a-e4aa-11e9-be00-06b4694bee2a&p=d87c1e17-20c4-11ec-96e5-06b4694bee2a&pt=campaign&t=1633391352&s=4dba79283b46827b7840a0207a265519320b65291bb6949c20cc340b0ee72245) 
 
 **Newpaper, magazine and radio**
 
