@@ -21,4 +21,4 @@ Before my PhD, I completed a **Bachelor of Animal and Veterinary Bioscience** wi
 
 <a href="https://twitter.com/caseyttaylor?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @caseyttaylor</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" href="https://twitter.com/caseyttaylor?ref_src=twsrc%5Etfw">Tweets by caseyttaylor</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" height=300 ></script>
+<a class="twitter-timeline" data-width="300" data-height="600" href="https://twitter.com/caseyttaylor?ref_src=twsrc%5Etfw">Tweets by caseyttaylor</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
