@@ -18,8 +18,7 @@ My project was in collaboration with the [Vector and Waterborne Pathogens Resear
 Before my PhD, I completed a **Bachelor of Animal and Veterinary Bioscience** with First Class Honours at The University of Sydney. I developed a strong interest in wildlife, parasites and disease which led me to major in Animal Health and Disease. My Honours project explored the use of Infrared thermography as a tool to measure inflammation and pain in beef calves undergoing routine husbandry procedures. While Honours sparked my passion for research, it was a 6-month program with **Conservation Volunteers Australia** after Honours that led me back to ecology.
 
  <img src="/images/CT_termite mound_trop BIO.JPG" width="325" height="400" align="center">
- 
-**You can follow me on Twitter [@caseyttaylor](https://twitter.com/caseyttaylor)**
-_More links at bottom of page_
 
-<a class="twitter-timeline" href="https://twitter.com/caseyttaylor?ref_src=twsrc%5Etfw">Tweets by caseyttaylor</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/caseyttaylor?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @caseyttaylor</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="twitter-timeline" href="https://twitter.com/caseyttaylor?ref_src=twsrc%5Etfw">Tweets by caseyttaylor</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" height=300 ></script>
