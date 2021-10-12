@@ -28,28 +28,19 @@ Van der Saag, D., Lomax, S., Windsor, P. A., Taylor, C., & White, P. J. (2018). 
 
 * Hermon Slade Foundation
 _Understanding the ecology of tick host interactions: black rats as drivers of urban tick dynamics_ (**$84,000**) (2021) 
-
 * Northern Beaches Council PhD scholarship (**$75,000**) (2018)   
-
 * The University of Sydney Postgraduate Research Support Scheme (**$3100**) (2020)
-
 * The Ecological Society of Australia. Student Travel Grant (**$250**) (2019)   
-
 * Royal Zoological Society of NSW [_Paddy Pallin Science Grant_](https://www.rzsnsw.org.au/documents/item/71) (**$7000**) (2018)
-
 * [Best Graphical Abstract]({{ site.url }}/documents/Graphical abstract_survey paper.pdf), Higher Degree Research Showcase (2020)
 
 
 **Key conference presentations of my research findings**
 
 * Australian Society for Parasitology, Parasitravaganza: Understanding the drivers of tick encounters in urban areas (2020)
-
 * Ecological Society of Australia: What drives tick occurrence in urban areas of Australia? (2019)   
-
 * The Australian Mammal Society: Understanding the drivers of small mammal and tick activity (2019)        
-
 * The Ecological Society of Australia: Introduced rabbits are hosts of immature Ixodes ticks in urban areas (2018)
-
 * Postgraduate research showcase seminar: The ecological drivers of human-tick encounters in urban environments (2018)
 
 <img src="/images/Coverslide_rabbits.png" width="400" height="225" align="center">
