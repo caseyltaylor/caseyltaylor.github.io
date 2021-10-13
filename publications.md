@@ -14,7 +14,7 @@ Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstr
 
 **Publications**
 
-Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. Haemoprotozoa surveillance in peri-urban native and introduced wildlife. (2021). In press in [_Current research in Parasitology & Vector-borne Diseases_](https://doi.org/10.1016/j.crpvbd.2021.100052) 100052 | [pdf]({{ site.url }}/documents/Egan et al 2021 Current Res in Parasitol & Vectorborne Dis.pdf) |
+Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. Haemoprotozoa surveillance in peri-urban native and introduced wildlife. (2021). In press in [_Current Research in Parasitology & Vector-borne Diseases_](https://doi.org/10.1016/j.crpvbd.2021.100052) 100052 | [pdf]({{ site.url }}/documents/Egan et al 2021 Current Res in Parasitol & Vectorborne Dis.pdf) |
 
 
 Taylor, C. L., Lydecker, H. W., Lo, N., Hochuli, D. F., & Banks, P. B. (2020). Invasive rabbits host immature Ixodes ticks at the urban-forest interface. [_Ticks and Tick-borne Diseases_](https://doi.org/10.1016/j.ttbdis.2020.101439) 11 (4), 101439. | [pdf]({{ site.url }}/documents/Taylor et al 2020 Ticks Tickborne Dis.pdf) |
