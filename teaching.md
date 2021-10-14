@@ -5,9 +5,11 @@ title: Teaching
 
 **Undergraduate teaching**
 
-* _**Molecules to Ecosystems**_ Demonstrator, The University of Sydney (2021): marking assessments including weekly activities and scientific reports and preparing for and delivering online learning material (due to COVID-19 restrictions).
+* _**From Molecules to Ecosystems**_ Demonstrator, The University of Sydney (2021): marking assessments including weekly activities and scientific reports and preparing for and delivering online learning material (due to COVID-19 restrictions).
 
-* _**Ecology**_, Demonstrator The University of Sydney (2021): assisting 3rd-year ecology students with their projects.
+* _**Ecology**_, Demonstrator, The University of Sydney (2021): assisting 3rd-year ecology students with their projects.
+
+* **_Ecology and Conservation_** Demonstrator, The University of Sydney (2021): assisting with activities in practical classes 
 
 * _**Life and Evolution**_ Demonstrator, The University of Sydney (2019-2021): exam supervision, marking exams, marking scientific reports. Preparing for and assisting with the delivery of laboratory and online classes.
 
