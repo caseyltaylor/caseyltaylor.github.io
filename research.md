@@ -6,7 +6,7 @@ subtitle:
 
 **Project** Understanding the ecology of tick host interactions: _black rats as drivers of urban tick dynamics_
 
-This year I received funding along with my PhD supvisors Professor Peter Banks and Professor Dieter Hochuli to build on some of our research on urban **tick ecology**, including findings that emerged during my PhD. With support from the [Hermon Slade Foundation](http://www.hermonslade.org.au/) we will be exploring the role of **introduced black rats** in urban tick dynamics.
+This year I received funding along with my PhD supervisors Professor Peter Banks and Professor Dieter Hochuli to build on some of our research on urban **tick ecology**, including findings that emerged during my PhD. With support from the [Hermon Slade Foundation](http://www.hermonslade.org.au/) we will be exploring the role of **introduced black rats** in urban tick dynamics.
 
 <img src="/images/Black _rat_henry_credit.JPG" width="400" height="280" align="center"> 
 
