@@ -5,19 +5,19 @@ subtitle:
 ---
 **Podcasts**
 
-* [Off Track](https://www.abc.net.au/radionational/programs/offtrack/bandicoots-and-ticks/13513134) with Ann Jones, _Ticked-off in Sydney_
-* [The Coast](https://www.mixcloud.com/TheCoastRNB/episode-6-season-5-dont-blame-the-bandicoot/) with Wendy Frew, _Don't blame the bandicoot_
+* [Off Track](https://www.abc.net.au/radionational/programs/offtrack/bandicoots-and-ticks/13513134) with Ann Jones _Ticked-off in Sydney_
+* [The Coast](https://www.mixcloud.com/TheCoastRNB/episode-6-season-5-dont-blame-the-bandicoot/) with Wendy Frew _Don't blame the bandicoot_
 
 [<img src="/images/Off track screenshot.png" width="400" height="265" align="center">](https://www.abc.net.au/radionational/programs/offtrack/bandicoots-and-ticks/13513134) 
 
 **Newpaper, magazine and radio**
 
-* [Pittwater Online News](https://www.pittwateronlinenews.com/), _Local tick research shows rats and rabbits are hosts_
-* [Northern Beaches Advocate](https://www.northernbeachesadvocate.com.au/2021/10/31/wrong-end-of-the-tick/), _Wrong end of the tick_
-* [Landcare and Community Newsletter](https://araneoides.eomail1.com/web-version?ep=1&lc=0ad0c50a-e4aa-11e9-be00-06b4694bee2a&p=d87c1e17-20c4-11ec-96e5-06b4694bee2a&pt=campaign&t=1633391352&s=4dba79283b46827b7840a0207a265519320b65291bb6949c20cc340b0ee72245) 
-* [The Manly Daily](https://www.dailytelegraph.com.au/subscribe/news/1/?sourceCode=DTWEB_WRE170_a_GGL&dest=https%3A%2F%2Fwww.dailytelegraph.com.au%2Fnewslocal%2Fmanly-daily%2Flandmark-study-to-identify-tick-hotspots-on-sydneys-northern-beaches%2Fnews-story%2F0d63260c295640518914fce294b000b2&memtype=anonymous&mode=premium&v21=dynamic-cold-test-noscore&V21spcbehaviour=append), _Landmark study to identify tick hotspots_
-* [Manly Australia](https://www.manlyaustralia.com.au/news/tick-survey-on-the-northern-beaches/), _Tick survey on the Northern Beaches_ 
-* Pittwater Life Magazine, _A very important survey to 'tick off' over the summer_ 
+* [Pittwater Online News](https://www.pittwateronlinenews.com/) _Local tick research shows rats and rabbits are hosts_
+* [Northern Beaches Advocate](https://www.northernbeachesadvocate.com.au/2021/10/31/wrong-end-of-the-tick/) _Wrong end of the tick_
+* [Landcare and Community Newsletter](https://araneoides.eomail1.com/web-version?ep=1&lc=0ad0c50a-e4aa-11e9-be00-06b4694bee2a&p=d87c1e17-20c4-11ec-96e5-06b4694bee2a&pt=campaign&t=1633391352&s=4dba79283b46827b7840a0207a265519320b65291bb6949c20cc340b0ee72245) _Are bandicoots bringing ticks into gardens?_ 
+* [The Manly Daily](https://www.dailytelegraph.com.au/subscribe/news/1/?sourceCode=DTWEB_WRE170_a_GGL&dest=https%3A%2F%2Fwww.dailytelegraph.com.au%2Fnewslocal%2Fmanly-daily%2Flandmark-study-to-identify-tick-hotspots-on-sydneys-northern-beaches%2Fnews-story%2F0d63260c295640518914fce294b000b2&memtype=anonymous&mode=premium&v21=dynamic-cold-test-noscore&V21spcbehaviour=append) _Landmark study to identify tick hotspots_
+* [Manly Australia](https://www.manlyaustralia.com.au/news/tick-survey-on-the-northern-beaches/) _Tick survey on the Northern Beaches_ 
+* Pittwater Life Magazine _A very important survey to 'tick off' over the summer_ 
 * ABC Sydney
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Article about our tick survey in local magazine Pittwater Life. Thanks to the many Northern Beaches residents who have filled it out so far! The survey will be out until the end of Feb - help us understand more about tick occurrence on the Northern Beaches <a href="https://t.co/8ldWDQtR9u">https://t.co/8ldWDQtR9u</a> <a href="https://t.co/A4kyOfkHKm">pic.twitter.com/A4kyOfkHKm</a></p>&mdash; Casey Taylor (@caseyttaylor) <a href="https://twitter.com/caseyttaylor/status/1085781673470357504?ref_src=twsrc%5Etfw">January 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
