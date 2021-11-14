@@ -23,7 +23,7 @@ The episode was also featured in the Greater Sydney Local Land Services October 
 
 [Manly Australia](https://www.manlyaustralia.com.au/news/tick-survey-on-the-northern-beaches/), _Tick survey on the Northern Beaches_ 
 
-Pittwater Life Magazine 
+Pittwater Life Magazine, _A very important survey to 'tick off' over the summer_ 
 
 ABC Sydney
 
