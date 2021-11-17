@@ -5,11 +5,11 @@ title: Publications & grants
 
 **Manuscripts submitted or in prep**
 
-Taylor, C. L., Hochuli, D. F., & Banks, P. B. A native marsupial and invasive commensal support tick populations at the urban fringe. (2021) **In prep**.
+Taylor, C. L., Egan, S.L., Gofton, A.W., Irwin, P.J., Oskam, C.L., Hochuli, D. F., & Banks, P. B. An invasive commensal and a native marsupial maintain disease vector populations at the urban fringe. (2021) **In prep**.
 
 Taylor, C. L., Lydecker, H. W.., Hochuli, D. F., & Banks, P. B. Associations between reported wildlife observations, tick encounters and landscape features in a peri-urban tick hotspot of Australia. (2021) **Submitted**.
 
-Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. The bacterial biome of ticks and their wildlife hosts at the urban-wildland interface. (2021). **In review** in Microbial Genomics.
+Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. The bacterial biome of ticks and their wildlife hosts at the urban-wildland interface. (2021). **Accepted** in Microbial Genomics.
 
 
 **Publications**
