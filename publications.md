@@ -9,12 +9,13 @@ Taylor, C. L., Egan, S.L., Gofton, A.W., Irwin, P.J., Oskam, C.L., Hochuli, D. F
 
 Taylor, C. L., Lydecker, H. W.., Hochuli, D. F., & Banks, P. B. Associations between reported wildlife observations, tick encounters and landscape features in a peri-urban tick hotspot of Australia. (2021) **Submitted**.
 
-Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. The bacterial biome of ticks and their wildlife hosts at the urban-wildland interface. (2021). **Accepted** in Microbial Genomics.
 
 
 **Publications**
 
-Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. Haemoprotozoa surveillance in peri-urban native and introduced wildlife. (2021). In press in [_Current Research in Parasitology & Vector-borne Diseases_](https://doi.org/10.1016/j.crpvbd.2021.100052) 100052 | [pdf]({{ site.url }}/documents/Egan et al 2021 Current Res in Parasitol & Vectorborne Dis.pdf) |
+Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. The bacterial biome of ticks and their wildlife hosts at the urban-wildland interface. (2021). [_Microbial Genomics_](https://doi.org/10.1099/mgen.0.000730) 7 (12), 000730 | [pdf]({{ site.url }}/documents/.pdf) |
+
+Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. Haemoprotozoa surveillance in peri-urban native and introduced wildlife. (2021). [_Current Research in Parasitology & Vector-borne Diseases_](https://doi.org/10.1016/j.crpvbd.2021.100052) 100052 | [pdf]({{ site.url }}/documents/Egan et al 2021 Current Res in Parasitol & Vectorborne Dis.pdf) |
 
 
 Taylor, C. L., Lydecker, H. W., Lo, N., Hochuli, D. F., & Banks, P. B. (2020). Invasive rabbits host immature Ixodes ticks at the urban-forest interface. [_Ticks and Tick-borne Diseases_](https://doi.org/10.1016/j.ttbdis.2020.101439) 11 (4), 101439. | [pdf]({{ site.url }}/documents/Taylor et al 2020 Ticks Tickborne Dis.pdf) |
