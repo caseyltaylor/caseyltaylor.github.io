@@ -3,17 +3,16 @@ layout: page
 title: Publications & grants
 ---
 
-**Manuscripts submitted or in prep**
+**Manuscripts submitted**
 
-Taylor, C. L., Egan, S.L., Gofton, A.W., Irwin, P.J., Oskam, C.L., Hochuli, D. F., & Banks, P. B. An invasive commensal and a native marsupial maintain disease vector populations at the urban fringe. (2021) **In prep**.
+Taylor, C. L., Egan, S.L., Gofton, A.W., Irwin, P.J., Oskam, C.L., Hochuli, D. F., & Banks, P. B. An invasive commensal and a native marsupial maintain disease vector populations at the urban fringe. (2021)
 
-Taylor, C. L., Lydecker, H. W.., Hochuli, D. F., & Banks, P. B. Associations between reported wildlife observations, tick encounters and landscape features in a peri-urban tick hotspot of Australia. (2021) **Submitted**.
-
+Taylor, C. L., Lydecker, H. W.., Hochuli, D. F., & Banks, P. B. Associations between reported wildlife observations, tick encounters and landscape features in a peri-urban tick hotspot of Australia. (2021)
 
 
 **Publications**
 
-Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. The bacterial biome of ticks and their wildlife hosts at the urban-wildland interface. (2021). [_Microbial Genomics_](https://doi.org/10.1099/mgen.0.000730) 7 (12), 000730 | [pdf]({{ site.url }}/documents/.pdf) |
+Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. The bacterial biome of ticks and their wildlife hosts at the urban-wildland interface. (2021). [_Microbial Genomics_](https://doi.org/10.1099/mgen.0.000730) 7 (12), 000730 | [pdf]({{ site.url }}/documents/Egan et al 2021 Microbial Genomics.pdf) |
 
 Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. Haemoprotozoa surveillance in peri-urban native and introduced wildlife. (2021). [_Current Research in Parasitology & Vector-borne Diseases_](https://doi.org/10.1016/j.crpvbd.2021.100052) 100052 | [pdf]({{ site.url }}/documents/Egan et al 2021 Current Res in Parasitol & Vectorborne Dis.pdf) |
 
