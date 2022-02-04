@@ -4,7 +4,7 @@ title: Casey Taylor
 subtitle: The University of Sydney
 ---
 
-I'm in the final stage of my PhD at the University of Sydney. I am apart of the [Behavioural Ecology and Conservation Research Group](https://conservation-behaviour.sydney.edu.au/) and the [Integrative Ecology lab](https://www.sydney.edu.au/science/our-research/research-areas/life-and-environmental-sciences/integrative-ecology-lab.html). My general research interests are in parasite and disease ecology, urban ecology, small mammal ecology, human-wildlife conflict, and wildlife conservation. 
+I've recently submitted my PhD in Ecology at the University of Sydney. I am apart of the [Behavioural Ecology and Conservation Research Group](https://conservation-behaviour.sydney.edu.au/) and the [Integrative Ecology lab](https://www.sydney.edu.au/science/our-research/research-areas/life-and-environmental-sciences/integrative-ecology-lab.html). My general research interests are in parasite and disease ecology, urban ecology, small mammal ecology, human-wildlife conflict, and wildlife conservation. 
 
 <img src="/images/Me_possum-01.png" width="325" height="380" align="center"> <img src="/images/CT_camtrapping.png" width="350" height="380" align="center"> 
 
