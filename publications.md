@@ -10,6 +10,7 @@ Taylor, C. L., Egan, S.L., Gofton, A.W., Irwin, P.J., Oskam, C.L., Hochuli, D. F
 Taylor, C. L., Lydecker, H. W.., Hochuli, D. F., & Banks, P. B. Associations between reported wildlife observations, tick encounters and landscape features in a peri-urban tick hotspot of Australia. (2021)
 
 **Publications**
+
 Gofton, A. W., Smith, I., Blasdell, K., Taylor, C.L., Dunn, M., Michie, M., Roy-Dufresne, E., Poldy. J., Tachedjian, M., and Wang, J.
 Metatranscriptomic profiling reveals diverse tick-borne bacteria, protozoans, and viruses in ticks and wildlife from Australia. (2021) [_Transboundary and Emerging Diseases_](https://doi-org.ezproxy.library.sydney.edu.au/10.1111/tbed.14581) | |
 
