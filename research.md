@@ -27,8 +27,3 @@ _Left: cluster of engorged nymphal ticks on an anaesthetised black rat, right: a
 3) That a local rat removal program will lead to a reduction in tick abundance
 
 Solutions to prevent tick-borne public health risks are embedded in our understanding of tick ecology. By testing these hypotheses, we will definitively reveal the importance of a global commensal in maintaining urban tick populations, inform management of black rats in urban bushland by studying their movement and determine whether large-scale rat control is a viable tick management strategy. 
-
-
-<img src="/images/Collecting_ticks_black rat.JPG" width="300" height="400" align="center"> 
-
-_Collecting ticks from an anaesthetised black rat_
