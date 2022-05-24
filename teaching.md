@@ -17,7 +17,11 @@ title: Teaching
 
 **Mentorship**
 
-_**Co-supervisor**_ The University of Sydney (2018): I co-supervised an Animal and Veterinary Bioscience Honours student researching the effect of time since prescribed burning on small mammal and tick activity in urban bushland. I assisted with fieldwork activities (small mammal trapping and microhabitat surveys) and coordinated volunteers and the wildlife anaesthesia training required for the project. I mentored the student during the project design phase and provided feedback on their final manuscript and presentation.
+_**Co-supervisor**_ 
+
+2022: I'm currently co-supervising an Honours student studying the effect black rat contorl on tick abundance and rodent-borne disease prevalence
+
+2018: I co-supervised an Animal and Veterinary Bioscience Honours student researching the effect of time since prescribed burning on small mammal and tick activity in urban bushland. 
 
 <img src="/images/Green tree frog_trop bio _me.JPG" width="300" height="200" align="center"><img src="/images/Filesnake_tropbio.JPG" width="300" height="200" align="center">
 
