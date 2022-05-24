@@ -11,13 +11,11 @@ Taylor, C. L., Lydecker, H. W.., Hochuli, D. F., & Banks, P. B. Associations bet
 
 **Publications**
 
-Gofton, A. W., Smith, I., Blasdell, K., Taylor, C.L., Dunn, M., Michie, M., Roy-Dufresne, E., Poldy. J., Tachedjian, M., and Wang, J.
-Metatranscriptomic profiling reveals diverse tick-borne bacteria, protozoans, and viruses in ticks and wildlife from Australia. (2022) [_Transboundary and Emerging Diseases_](https://doi-org.ezproxy.library.sydney.edu.au/10.1111/tbed.14581) | [pdf]({{ site.url }}/documents/Transbounding Emerging Dis - 2022 - Gofton - Metatranscriptomic profiling reveals diverse tick‐borne bacteria  protozoans.pdf) |
+Gofton, A. W., Smith, I., Blasdell, K., Taylor, C.L., Dunn, M., Michie, M., Roy-Dufresne, E., Poldy. J., Tachedjian, M., and Wang, J. Metatranscriptomic profiling reveals diverse tick-borne bacteria, protozoans, and viruses in ticks and wildlife from Australia. (2022). [_Transboundary and Emerging Diseases_](https://doi-org.ezproxy.library.sydney.edu.au/10.1111/tbed.14581) 1-19 | [pdf]({{ site.url }}/documents/Gofton et al 2022 Transbounding Emerging Dis.pdf) |
 
 Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. The bacterial biome of ticks and their wildlife hosts at the urban-wildland interface. (2021). [_Microbial Genomics_](https://doi.org/10.1099/mgen.0.000730) 7 (12), 000730 | [pdf]({{ site.url }}/documents/Egan et al 2021 Microbial Genomics.pdf) |
 
 Egan, S. L., Taylor, C. L., Austen, J. M., Banks, P. B., Northover, A.S., Ahlstrom, L. A., Ryan, U. M., ... & Oskam, C. L. Haemoprotozoa surveillance in peri-urban native and introduced wildlife. (2021). [_Current Research in Parasitology & Vector-borne Diseases_](https://doi.org/10.1016/j.crpvbd.2021.100052) 100052 | [pdf]({{ site.url }}/documents/Egan et al 2021 Current Res in Parasitol & Vectorborne Dis.pdf) |
-
 
 Taylor, C. L., Lydecker, H. W., Lo, N., Hochuli, D. F., & Banks, P. B. (2020). Invasive rabbits host immature Ixodes ticks at the urban-forest interface. [_Ticks and Tick-borne Diseases_](https://doi.org/10.1016/j.ttbdis.2020.101439) 11 (4), 101439. | [pdf]({{ site.url }}/documents/Taylor et al 2020 Ticks and Tick-Borne Diseases.pdf) |
 
