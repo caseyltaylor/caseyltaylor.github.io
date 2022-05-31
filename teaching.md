@@ -17,7 +17,7 @@ title: Teaching
 
 **Mentorship**
 
-2022: I'm currently co-supervising an Honours student studying the effect black rat control on tick abundance and rodent-borne disease prevalence in native small mammal populations.
+2022: I'm currently co-supervising an Honours student studying the effect of black rat population control on tick abundance and rodent-borne disease prevalence in native small mammal populations.
 
 2018: I co-supervised an Animal and Veterinary Bioscience Honours student researching the effect of time since prescribed burning on small mammal and tick activity in urban bushland. 
 
